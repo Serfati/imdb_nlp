@@ -3,7 +3,7 @@
 
   
   
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Serfati/imdb_sentiment_analysis) ![](https://img.shields.io/apm/l/atomic-design-ui.svg?)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Serfati/imdb_sentiment_analysis) ![](https://img.shields.io/apm/l/atomic-design-ui.svg?)
 # Description  
 
 This repository contains simple yet efficient solution for sentiment polarity analysis of IMDB dataset with TfIdfVectorizer and Many ML models such as SVM, NB and Kmeans.
