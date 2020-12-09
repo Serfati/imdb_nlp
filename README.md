@@ -52,9 +52,13 @@ You can modify or contribute to this project by following the steps below:
 **3. launch of the project**  
   
  ```bash  
- # run 
- $> jupyter notebook IMDB.ipynb
+ # Run nootebook 
+ $> jupyter notebook IMDB_NLP.ipynb
  ```  
+
+- **Or open with Colab**
+  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Serfati/imdb_sentiment_analysis)
 
 ---  
 
