@@ -36,10 +36,10 @@ You can modify or contribute to this project by following the steps below:
 - [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) to a location on your machine.  
  ```bash  
  # Clone the repository 
- $> git clone https://github.com/serfati/imdb_sentiment_Analysis.git  
+ $> git clone https://github.com/serfati/imdb_nlp.git  
 
  # Navigate to the directory 
- $> cd imdb_sentiment_Analysis
+ $> cd imdb_nlp
   ``` 
 
 **2. Install Dependencies**  
